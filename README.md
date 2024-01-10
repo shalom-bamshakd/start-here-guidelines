@@ -126,4 +126,4 @@ Finally, open-source projects use the following tools to organize discussion. Re
 
 **Synchronous chat channel**: Some projects use chat channels (such as Discord or IRC) for casual conversation, collaboration, and quick exchanges.
 
-**Get all the ZTM Courses, for one monthly subscription** [here](https://zerotomastery.io/courses?utm_source=github&utm_medium=start-here-guidelines).
+**Get all the Bluehouse(Infinity Gem) Courses, for one monthly subscription** [here](https://ig.bluehouseng.com/).
