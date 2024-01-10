@@ -76,11 +76,11 @@ We don't care if you break things. This is a playground, and we encourage failin
 
     Read more about pull requests on the [GitHub help pages](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-11. Wait until Zerobot or one of the maintainers merges your pull request. If there are any conflicts, you will get a notification and be required to resolve the conflict.
+11. Wait until bot or one of the maintainers merges your pull request. If there are any conflicts, you will get a notification and be required to resolve the conflict.
 
-12. Go join a project and start contributing or create your own group apps. Don't be shy and enjoy creating things together (We have over 20 projects for all levels of programmers)! [Check out this guide](https://github.com/zero-to-mastery/start-here-guidelines/blob/master/Get_Started.md) for more information on selecting a project.
+12. Go join a project and start contributing or create your own group apps. Don't be shy and enjoy creating things together (We have over 20 projects for all levels of programmers)! [Check out this guide](https://github.com/bluhouseng/start-here-guidelines/blob/master/Get_Started.md) for more information on selecting a project.
 
-13. To see the Zero to Mastery Icon in your GitHub profile, [follow these steps](https://help.github.com/articles/publicizing-or-hiding-organization-membership/) (you must complete steps 1 and 2 for this to work).
+13. To see the Bluehouse Icon in your GitHub profile, [follow these steps](https://help.github.com/articles/publicizing-or-hiding-organization-membership/) (you must complete steps 1 and 2 for this to work).
 
 ## Anatomy of an open-source project:
 
@@ -124,6 +124,4 @@ Finally, open-source projects use the following tools to organize discussion. Re
 
 **Discussion forums or mailing lists**: Some projects may use these channels for conversational topics (for example, “How do I…“ or “What do you think about…“ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
 
-**Synchronous chat channel**: Some projects use chat channels (such as Discord or IRC) for casual conversation, collaboration, and quick exchanges.
-
-**Get all the ZTM Courses, for one monthly subscription** [here](https://zerotomastery.io/courses?utm_source=github&utm_medium=start-here-guidelines).
+**Synchronous chat channel**: Some projects use chat channels (such as What'sApp or slack) for casual conversation, collaboration, and quick exchanges.
