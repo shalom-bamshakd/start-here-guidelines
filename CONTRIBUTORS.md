@@ -2,4 +2,6 @@
   * [Gar Manji Michael](https://github.com/mbragi)
   * [victor ifeanyi ezeabikwa](https://github.com/Vjfrontend)
    * [ Dako ishaku](https://github.com/Dakoishaku69)
+  * [Mandyang sunday solomon](https://github.com/mandyang-sunday)
   * [David Rotshak Zebedee](https://github.com/Spydacom)
+  * [Longji Paul Benshak](https://github.com/Leeyung1)
