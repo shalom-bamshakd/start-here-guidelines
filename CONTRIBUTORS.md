@@ -9,4 +9,4 @@
   * [Mwanful Felix Jah](https://github.com/Mwanful070)
   * [Unubi Mercy Ojomah](https://github.com/Omah-Mercy05/start-here-guidelines)
   * [Longji Paul Benshak](https://github.com/Leeyung1)
-* [SOLOMON Drambi] (http://github.com/SUNDISKI)
+* [SOLOMON Drambi](http://github.com/SUNDISKI)
