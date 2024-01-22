@@ -1,6 +1,7 @@
 <!-- write fullname in [] and link to github account in () -->
  * [Mbiplang Ardel](https://github.com/jothamardel)
  * [Gar Manji Michael](https://github.com/mbragi)
+ * [Prince Nkem konwea](https://github.com/prince-konwea)
   * [WENG LUKA](https://github.com/wengluka)
   * [victor ifeanyi ezeabikwa](https://github.com/Vjfrontend)
    * [ Dako ishaku](https://github.com/Dakoishaku69)
