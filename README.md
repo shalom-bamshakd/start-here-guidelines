@@ -135,3 +135,5 @@ Finally, open-source projects use the following tools to organize discussion. Re
 2. Create another folder in the parent folder created on step 1 for the current week in the example: [week one](./sample/week%201/), [week two](./sample/week%202/)
 
 3. Create the file/project you want to contribute in the folder example: [project](./sample/week%201/index.html)
+
+Happy Coding !!!
