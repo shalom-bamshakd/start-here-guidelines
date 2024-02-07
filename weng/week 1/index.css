@@ -1,0 +1,20 @@
+body{
+  margin: 0;
+  background-image: url(background.jpeg); 
+  background-size: cover;
+}
+
+.blurry{
+ padding-top: 11em;
+ padding-left: 32em;
+ -webkit-filter: blur(11px);
+ -moz-filter: blur(11px);
+ -o-filter: blur(11px);
+ -ms-filter: blur(11px);
+ filter: blur(11px);
+}
+
+img{
+  opacity: 0.8;
+}
+
