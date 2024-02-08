@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>colorful mobile navigation bar</title>
+    <script src="https://kit.fontawesome.com/986c760013.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="stylesheet.css">
+</head>
+</head>
+<body>
+    <div class="wrapper">
+        <div class="navbar">
+            <a href="#"class="navitem active"
+           onclick="select(this)"data-clr="#e4ecfa" >
+            <div class="indicator"></div>
+            <div class="hover-indicator"></div>
+            <i class="fa-solid fa-house"></i>
+        </a>
+<a href="#"class="navitem" 
+onclick="select(this)"data-clr="#fff6cc">
+    <div class="indicator"></div>
+    <div class="hoverindicator"></div>
+    <i class="fa-solid fa-person-dots-from-line"></i>
+</a>
+<div class="navSearch">
+   <input class="searchbox"></input>
+   <div class="searchicon"
+    onclick="selectSearch()">
+    <i class="fa-solid fa-magnifying-glass"></i>
+
+   </div>
+
+</div>
+<a href="#" class="navitem"
+onclick="select(this)"data-clr="#foe4fa">
+    <div class="indicator"></div>
+    <div class="hoverindicator"></div>
+    <i class="fa-solid fa-gear"></i>
+</a>
+
+        </div>
+
+
+    </div>
+    <script src="javascript.js"></script>
+   
+    
+</body>
+</html>
