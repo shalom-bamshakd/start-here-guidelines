@@ -16,11 +16,19 @@
         justify-content: space-between;
         align-items: center;
         margin: 0px 20px;
-
     }
 
-    .nav-lt{
+    .navbar a{
+        text-decoration: none;
+    }
 
+    .navbar i{
+        list-style: none;
+        color: #333;
+    }
+
+    .nav-lt i{
+        transform: scale(2);
     }
 
     .nav-md{
@@ -49,15 +57,19 @@
         align-items: center;
     }
 
+    .nav-rt i{
+        padding: 10px;
+    }
+
     .hero{
         background-image: url("./assets/img\ 1.jpg");
         background-size: cover;
-        height: 70vh;
+        height: 80vh;
     }
 
     .hero-left{
         text-align: start;
-        padding: 120px 80px;
+        padding: 160px 80px;
     }
 
     .hero-left h1{
@@ -129,7 +141,13 @@
         font-size: 12px;
         margin: 10px;
         border: none;
-        border-radius: 16px;
+        border-radius: 8px;
+        box-shadow: 1px 1px 5px 1px gainsboro;
+    }
+
+    .categories:hover{
+        transition: 0.6s ease;
+        transform:scale(1.05);
     }
 
     .categories div{
@@ -140,13 +158,27 @@
         margin-top: 10px;
     }
 
-    .pet{
+    .pet-dog{
         background-image: url(./assets/dogs.jpg);
-        background-size:cover;
-        
+        background-size:cover;        
     }
 
-    .pet .pets-btn{
+    .pet-cat{
+        background-image: url(./assets/cats\ 2.jpg);
+        background-size:cover;        
+    }
+
+    .pet-bird{
+        background-image: url(./assets/birds\ 2.jpg);
+        background-size:cover;        
+    }
+
+    .pet-fish{
+        background-image: url(./assets/fish\ 2.jpg);
+        background-size:cover;        
+    }
+
+    .pets-btn{
         background: transparent ;
         color:#333;
         font-size: 10px;
@@ -156,6 +188,14 @@
         padding: 12px 28px;
         outline: none;
         margin-top: 20px;
+    }
+
+    .pets-btn:hover{
+        color: #fff;
+        background-color: rgb(113, 27, 27);
+        border: none;
+        transform:scale(1.05);
+        transition: 0.6s ease; 
     }
 
     /* services */
@@ -181,10 +221,18 @@
 
     .groom-left{
         display: flex;
+        border: none;
+        border-radius: 16px;
+        box-shadow: 1px 1px 5px 1px gainsboro;
+    }
+
+    .groom-left:hover{
+        transition: 0.6s ease;
+        transform: scale(1.05);
     }
     
     .groom-left:hover{
-        /* transform:scale(1.1); */
+        transform:scale(1.05);
         transition: 0.6s ease;          
     }
 
@@ -273,7 +321,7 @@
     /* location section */
 
     .location{
-        width: 90%;
+        width: 95%;
         height: 40vh;
         background-color: #feb6b6;
         color: #333;
@@ -283,7 +331,7 @@
         justify-content: space-evenly;
         /* padding: 20px; */
         border-radius: 8px;
-        margin: 0px 80px;
+        margin: 80px 40px;
     }
 
     .location:hover{
@@ -302,7 +350,7 @@
         background: #333;
         width: 100%;
         /* height: fit-content; */
-        margin-top: 80px;
+        margin-top: 120px;
     }
 
     .footer-items{
