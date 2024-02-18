@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: red;
+    text-align: center;
+    font-size: 5rem;
+}
+p {
+    color: wheat;
+    font-size: 200%;
+    font-style: italic;
+    font-weight: 500;
+    text-transform: none;
+}
+img {
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    color: wheat;
+    font-size: 200%;
+    font-style: italic;
+    list-style: none;
+}
+
+nav {
+    margin: 5px;
+}
