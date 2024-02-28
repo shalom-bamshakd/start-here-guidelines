@@ -1,0 +1,19 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(0deg, #62a0d8 0%,
+    #2178d1 50%, #085cb3 100%);
+    overflow: hidden;
+}
+svg {
+    bottom: 0px;
+    width: 900px;
+    height: 400px;
+    position: absolute;
+}
+
+.cloud {
+    fill: #fff;
+    opacity: 0.9;
+    filter: url(#filter);
+}
