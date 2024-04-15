@@ -1,0 +1,60 @@
+html,
+body {
+  height: 100%;
+  overflow: hidden;
+}
+
+:root {
+  font-size: 2vw;
+  font-family: Itim, sans-serif;
+}
+
+body {
+  display: grid;
+  place-content: center;
+  background-color: rgb(77, 136, 58);
+}
+
+nav {
+  position: relative;
+  color: rgb(165, 182, 186);
+}
+
+ul {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+li {
+  padding: 0 1.25rem;
+}
+
+svg {
+  color: rgb(36, 238, 116);
+  overflow: visible;
+}
+
+path {
+  --factor: 1;
+  transition: all calc(0.4s * var(--factor)) ease-in-out;
+}
+
+a {
+  display: block;
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 2.75rem;
+  line-height: 1.25;
+  color: inherit;
+  transition: color 0.3s ease-in-out;
+}
+
+a.active {
+  color: rgb(34, 255, 133);
+}
