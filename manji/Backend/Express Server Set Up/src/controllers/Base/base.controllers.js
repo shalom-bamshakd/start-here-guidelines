@@ -9,7 +9,7 @@ const httpGetAPPBase = async (req, res) => {
 const httpGetAPPAbout = async (req, res) => {
   try {
     return res.status(200).sendFile("about.html", {
-      root: path.join(__dirname.split("src")[0]),
+      root: path.join(__dirname.split("controllers")[0] + "/views"),
     });
   } catch (error) {
     return res.status(500).json({ msg: error.message });
