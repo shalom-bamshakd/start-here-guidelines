@@ -6,6 +6,7 @@
   * [WENG LUKA](https://github.com/wengluka)
   * [victor ifeanyi ezeabikwa](https://github.com/Vjfrontend)
    * [ Dako ishaku](https://github.com/Dakoishaku69)
+   * [Shalom Bamshak](https://github.com/shalom-bamshakd)
   * [Mandyang sunday solomon](https://github.com/mandyang-sunday)
   * [David Rotshak Zebedee](https://github.com/Spydacom)
   * [Mwanful Felix Jah](https://github.com/Mwanful070)
